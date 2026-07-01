@@ -224,6 +224,4 @@ The Power BI dashboard includes:
 
 Data Analyst | Business Intelligence | SQL | Python | Power BI
 
-GitHub: https://github.com/yourusername
 
-LinkedIn: https://linkedin.com/in/yourprofile
